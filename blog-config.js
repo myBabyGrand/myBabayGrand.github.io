@@ -10,7 +10,7 @@ module.exports = {
     resume: "http://www.naver.com"
   },
   utterances: {
-    repo: "mybabygrand/mybabygrand.github.io",
+    repo: "myBabyGrand/myBabyGrand.github.io",
     type: "pathname",
   },
 }

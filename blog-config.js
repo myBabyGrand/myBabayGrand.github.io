@@ -2,7 +2,7 @@ module.exports = {
   title: "majorTom",
   description: "Ground control to major Tom",
   author: "majorTom",
-  siteUrl: "https://mybabygrand.github.io/gatsby-starter-hoodie/",
+  siteUrl: "https://myBabyGrand.github.io",
   links: {
     github: "https://github.com/mybabygrand",
     linkedIn: "https://linkedin.com",
@@ -10,7 +10,7 @@ module.exports = {
     resume: "http://www.naver.com"
   },
   utterances: {
-    repo: "devHudi/gatsby-starter-hoodie",
+    repo: "myBabyGrand/myBabyGrand.github.io",
     type: "pathname",
   },
 }
